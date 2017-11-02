@@ -14,7 +14,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
-
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -25,6 +25,8 @@ group :development, :test do
   gem 'rails-controller-testing'
   gem 'ffaker'
 end
+
+gem 'simplecov', require: false, group: :test
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.

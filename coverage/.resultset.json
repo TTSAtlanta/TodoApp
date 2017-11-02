@@ -1,0 +1,110 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/zapata/Desktop/NLR/TodoApp/app/models/task.rb": [
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/helpers/tasks_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/controllers/tasks_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        4,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        null
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/zapata/Desktop/NLR/TodoApp/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1509497273
+  }
+}

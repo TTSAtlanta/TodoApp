@@ -77,6 +77,15 @@ RSpec.describe TasksController, type: :controller do
 
 	    it 're-renders :new template'
 	  end
+	  it 'persists new task' do
+  		expect{
+     	post :create, params: {task: valid_attributes}
+  		}.to change(Task, :count).by(1)
+		end
+		it 'redirects to show page' do
+      post :create, params: { task: valid_attributes }
+      expect(response).to redirect_to(assigns(:task))
+    end
   end
 
 end
